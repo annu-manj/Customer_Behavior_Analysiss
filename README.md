@@ -34,11 +34,6 @@ Performed aggregations, joins, and filtering
 Built interactive visualizations
 Designed user-friendly dashboards
 Highlighted key metrics and trends
-6. Reporting & Presentation
-Documented insights in a structured report
-Created a presentation using Gamma
-Summarized key findings for stakeholders
-📊 Dashboard
 
 The Power BI dashboard includes:
 
